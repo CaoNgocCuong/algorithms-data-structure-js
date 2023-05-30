@@ -1,4 +1,4 @@
-# Learn Algorithms-Data-structure.
+# Learn Algorithms & Data structure.
 
 ## Learn algorithms and data structure using javascript.
 
