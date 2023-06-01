@@ -17,6 +17,6 @@ function towerOfHaNoi(n, fromRod, toRod, usingRod) {
   towerOfHaNoi(n - 1, usingRod, toRod, fromRod);
 }
 
-const n = 4;
+const n = 10;
 console.log(`Starting with n = ${n} disks, ...`);
 towerOfHaNoi(n, "Column A", "Column C", "Column B");
